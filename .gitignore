@@ -1,0 +1,7 @@
+# This is a comment
+*.js
+node_modules/
+DS_Store
+assets/videos/
+!app.js
+#app.js
